@@ -1,18 +1,3 @@
-//*--------------------------------------*
-//* Desarrollado por Locoalien           *
-//* Twitter @locoalien                   *
-//* Sitio web: www.locoaliensoft.com     *
-//*--------------------------------------*
-
-//+++++++++++++++++++++++++++++++++++++
-// El objetivo de este ejemplo es aprender a dar animacion y utilizar las propiedades
-// Mas comunes de JavaScript. Veremos el poder que tiene HTML5 implementando el Canvas
-// Espero les guste este ejemplo
-// Para mas informacion visitar nuestra pagina de Facebook: https://www.facebook.com/CulturaInformatica
-//+++++++++++++++++++++++++++++++++++++
-
-
-
 
 window.onload = hacking;//Llamamos a la funcion despues de que el documento ha sido cargado completamente
 function hacking(){
