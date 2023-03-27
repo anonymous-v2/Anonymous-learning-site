@@ -1,6 +1,3 @@
-/* someday I'll finish this...
-   painfully hacking a port of something I wrote in lightgl a year ago 
-*/
 function hplane() {
   
 	var planeGeo  = new THREE.PlaneGeometry(20,20, 4, 4);

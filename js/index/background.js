@@ -7,7 +7,7 @@ function hacking(){
 
 	
 	var letraTam=15; 
-	var columnas=c.width/letraTam; 
+	var columnas=c.width/letraTam;
 	
 	var letras=[];
 	for(var i=0; i<columnas;i++){
@@ -42,4 +42,5 @@ function hacking(){
 				return String.fromCharCode(parseInt(numTexto));
 			}
 	setInterval(dibujar,120);
+
 }
